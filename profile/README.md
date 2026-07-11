@@ -1,10 +1,13 @@
+
 <div align="center">
 
-<img src="assets/axis-logo.png" alt="axis.dk Logo" style="width: 320px;">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/axis-logo-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/axis-logo-light.png">
+  <img src="assets/axis-logo-dark.png" alt="axis.dk Logo" width="300">
+</picture>
 
-# axis.dk
-
-### Architect · Execute · Integrate · Scale
+### Architect · eXecute · Integrate · Scale
 
 Modern infrastructure engineering.
 
