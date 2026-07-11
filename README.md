@@ -1,4 +1,3 @@
-***
 
 # Architect - eXecute - Integrate - Scale
 
