@@ -1,15 +1,13 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/axis-logo-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/axis-logo-light.png">
-  <img src="assets/axis-logo-dark.png" alt="axis.dk Logo" width="300">
-</picture>
+<!-- Logo: the axis logo was removed when the identity became eyrie. Add the eyrie logo here when it is ready. -->
 
-### Architect · eXecute · Integrate · Scale
+# eyrie
 
-Modern infrastructure engineering.
+### Envision · Yield · Run · Iterate · Expand
+
+Infrastructure built with care, run with discipline.
 
 </div>
 
@@ -17,49 +15,49 @@ Modern infrastructure engineering.
 
 ## About
 
-**axis.dk** is a personal engineering platform focused on building modern infrastructure through architecture, automation, and continuous improvement.
+**eyrie** is a personal engineering platform. It started as a documented home lab and is growing toward an in-house datacenter for small and medium businesses.
 
-This organization contains projects, documentation, tooling, and experiments across infrastructure, networking, platform engineering, and software development.
-
----
-
-## What You'll Find
-
-- Infrastructure Projects
-- Platform Engineering
-- Networking
-- Automation
-- Documentation
-- Open Source Contributions
+An eyrie is an eagle's nest: built high, well protected, and made to raise something that grows. That is the idea here. Start small, build it properly, and expand only on solid ground.
 
 ---
 
-## Featured Repositories
+## What We Do
+
+| | |
+|---|---|
+| **Envision** | Plan the architecture before anything is racked or installed |
+| **Yield** | Deliver working systems, not just designs |
+| **Run** | Operate them reliably, with monitoring, backups, and clear procedures |
+| **Iterate** | Document every change, learn from every incident, and improve |
+| **Expand** | Grow capacity and services when the foundation is ready |
+
+---
+
+## Focus Areas
+
+- Networking and segmentation
+- Virtualisation and compute
+- Storage and data protection
+- Power and resilience
+- Remote access and security
+- Automation and documentation
+
+---
+
+## Repositories
 
 | Repository | Description |
 |------------|-------------|
-| Infrastructure | Infrastructure as Code and platform configuration |
-| Networking | Network architecture and design |
-| Automation | Operational tooling and automation |
-| Documentation | Engineering notes and reference material |
-| Monitoring | Observability and platform monitoring |
+| eyrie-docs | Architecture, network design, device records, decisions, and operating procedures |
 
----
-
-## Current Focus
-
-- Building reliable infrastructure
-- Automating operations
-- Documenting systems
-- Exploring modern platforms
-- Sharing practical engineering knowledge
+More repositories will follow as the platform grows.
 
 ---
 
 <div align="center">
 
-**axis.dk**
+**eyrie**
 
-*Architect · Execute · Integrate · Scale*
+*Envision · Yield · Run · Iterate · Expand*
 
 </div>
