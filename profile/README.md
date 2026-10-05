@@ -1,11 +1,11 @@
 
 <div align="center">
 
-<!-- Logo: the axis logo was removed when the identity became eyrie. Add the eyrie logo here when it is ready. -->
+<!-- Logo: add the loft logo here when it is ready. -->
 
-# eyrie
+# loft
 
-### Envision · Yield · Run · Iterate · Expand
+### Leverage · Orchestrate · Federate · Test
 
 Infrastructure built with care, run with discipline.
 
@@ -15,21 +15,20 @@ Infrastructure built with care, run with discipline.
 
 ## About
 
-**eyrie** is a personal engineering platform. It started as a documented home lab and is growing toward an in-house datacenter for small and medium businesses.
+**loft** is a personal engineering platform. It started as a documented home lab and is growing toward an in-house datacenter for small and medium businesses.
 
-An eyrie is an eagle's nest: built high, well protected, and made to raise something that grows. That is the idea here. Start small, build it properly, and expand only on solid ground.
+A loft is the space up top where things are kept safe and worked on. That is the idea here: a solid, well-kept place for systems that people rely on every day, built properly before it grows.
 
 ---
 
-## What We Do
+## How We Work
 
 | | |
 |---|---|
-| **Envision** | Plan the architecture before anything is racked or installed |
-| **Yield** | Deliver working systems, not just designs |
-| **Run** | Operate them reliably, with monitoring, backups, and clear procedures |
-| **Iterate** | Document every change, learn from every incident, and improve |
-| **Expand** | Grow capacity and services when the foundation is ready |
+| **Leverage** | Make full use of what already exists before adding anything new |
+| **Orchestrate** | Automate and coordinate systems so they run as one |
+| **Federate** | Connect separate systems, sites, and services into a single whole |
+| **Test** | Prove that everything works, and recovers, before it is handed over |
 
 ---
 
@@ -48,7 +47,7 @@ An eyrie is an eagle's nest: built high, well protected, and made to raise somet
 
 | Repository | Description |
 |------------|-------------|
-| eyrie-docs | Architecture, network design, device records, decisions, and operating procedures |
+| loft-docs | Architecture, network design, device records, decisions, and operating procedures |
 
 More repositories will follow as the platform grows.
 
@@ -56,8 +55,8 @@ More repositories will follow as the platform grows.
 
 <div align="center">
 
-**eyrie**
+**loft**
 
-*Envision · Yield · Run · Iterate · Expand*
+*Leverage · Orchestrate · Federate · Test*
 
 </div>
